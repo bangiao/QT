@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resoruce/tooopen_sy_127457023651.jpg</file>
+        <file>resoruce/2.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>signalslot.qml</file>
+        <file>connections.qml</file>
+        <file>item.qml</file>
+        <file>event.qml</file>
+        <file>anchors.qml</file>
+    </qresource>
+</RCC>
